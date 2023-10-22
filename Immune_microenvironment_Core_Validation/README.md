@@ -60,3 +60,7 @@ The altas of these 14 immune cells identified by singscore was also similar to s
 ![](/Immune_microenvironment_Core_Validation/SSGSEA.jpg)
 **Figure. 2** singscore GSresults
 ![](/Immune_microenvironment_Core_Validation/singscore.jpg)
+
+---
+
+## These results confirmed the reliability of our previous data
