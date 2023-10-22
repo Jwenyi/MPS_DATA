@@ -57,6 +57,6 @@ Utilizing a gene set and normalization function analogous to those employed in s
 The altas of these 14 immune cells identified by singscore was also similar to ssGSEA results (Figure. 1 and 2)
 
 **Figure. 1** ssGSEA results
-
+![](/Immune_microenvironment_Core_Validation/SSGSEA.jpg)
 **Figure. 2** singscore GSresults
 ![](/Immune_microenvironment_Core_Validation/singscore.jpg)
