@@ -1,4 +1,6 @@
-# Employing Singscore to validate ssGSEA-based results of immune microenvironment
+# Developing targeted therapies for neuroblastoma by dissecting the effects of metabolic reprogramming on tumor microenvironments and progression
+This repo includes the core data of our study, other data would be accessed upon reasonable request.
+## Employing Singscore to validate ssGSEA-based results of immune microenvironment
 
 **In the present study, we evaluated the immune cell infiltration of NBL using ssGSEA and came to the following conclusions:**
 
