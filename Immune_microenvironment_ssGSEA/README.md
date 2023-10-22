@@ -1,4 +1,4 @@
-# Employing Singscore to validate ssGSEA-based results of immune microenvironment
+# Employing Singscore to validate ssGSEA-based results of the immune microenvironment
 
 **In the present study, we evaluated the immune cell infiltration of neuroblastoma using ssGSEA and came to the following conclusions:**
 
@@ -12,4 +12,5 @@
 
 ## Singscore-evaluated immune cell infiltrations were highly agreed ssGSEA results
 
-Singscore employed the ** gene set and normalization function similar to ssGSEA** analyses to evaluate the immune cell infiltration within neuroblastoma.
+Singscore employed the gene set and normalization function similar to ssGSEA analyses to evaluate the immune cell infiltration within neuroblastoma.
+We found that the immune cell infiltration profile of neuroblastoma dissected by singscore was highly similar to that dissected by ssGSEA, as evident in the remarkable positive correlations between singscore and ssGSEA results **(Figure 1)**.
